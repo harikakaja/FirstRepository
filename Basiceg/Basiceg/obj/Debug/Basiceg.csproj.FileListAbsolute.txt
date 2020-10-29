@@ -1,0 +1,6 @@
+D:\New folder (2)\Basiceg\Basiceg\obj\Debug\Basiceg.csprojAssemblyReference.cache
+D:\New folder (2)\Basiceg\Basiceg\bin\Debug\Basiceg.exe.config
+D:\New folder (2)\Basiceg\Basiceg\bin\Debug\Basiceg.exe
+D:\New folder (2)\Basiceg\Basiceg\bin\Debug\Basiceg.pdb
+D:\New folder (2)\Basiceg\Basiceg\obj\Debug\Basiceg.exe
+D:\New folder (2)\Basiceg\Basiceg\obj\Debug\Basiceg.pdb

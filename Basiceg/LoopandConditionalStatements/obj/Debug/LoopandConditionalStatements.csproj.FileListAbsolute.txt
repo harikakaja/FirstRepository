@@ -1,0 +1,5 @@
+D:\New folder (2)\Basiceg\LoopandConditionalStatements\bin\Debug\LoopandConditionalStatements.exe.config
+D:\New folder (2)\Basiceg\LoopandConditionalStatements\bin\Debug\LoopandConditionalStatements.exe
+D:\New folder (2)\Basiceg\LoopandConditionalStatements\bin\Debug\LoopandConditionalStatements.pdb
+D:\New folder (2)\Basiceg\LoopandConditionalStatements\obj\Debug\LoopandConditionalStatements.exe
+D:\New folder (2)\Basiceg\LoopandConditionalStatements\obj\Debug\LoopandConditionalStatements.pdb
